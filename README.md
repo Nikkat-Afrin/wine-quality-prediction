@@ -2,7 +2,7 @@
 
 **Clean a messy 12,795-row wine dataset, then predict how many cases of each wine will sell from its chemical profile and review signals.**
 
-![Python](https://img.shields.io/badge/Python-3.12-blue) ![Task](https://img.shields.io/badge/Task-Data%20Cleaning%20%2B%20Regression-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![Task](https://img.shields.io/badge/Task-Data%20Cleaning%20%2B%20Regression-orange) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
